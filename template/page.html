@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>{{.Page.Name}}</title> 
+</head>
+<body>
+    {{range .Categories}}
+    <p>
+        <strong>{{.ID}} - {{.FirstName}}</strong>
+        {{range .Products}}
+        <ul>
+            <li>{{.Name}}</li>
+        </ul>
+        {{end}}
+    </p>
+    {{end}}
+</body>
+</html>

@@ -1,0 +1,26 @@
+[
+    {
+        "CategoryID": 1,
+        "ProductID": 1
+    },
+    {
+        "CategoryID": 2,
+        "ProductID": 2
+    },
+    {
+        "CategoryID": 3,
+        "ProductID": 3
+    },
+    {
+        "CategoryID": 2,
+        "ProductID": 4
+    },
+    {
+        "CategoryID": 3,
+        "ProductID": 5
+    },
+    {
+        "CategoryID": 3,
+        "ProductID": 6
+    }
+]

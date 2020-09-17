@@ -1,0 +1,32 @@
+[
+    { 
+        "Id" : 1,
+        "Name": "Cheese", 
+        "Price" : "2.50"
+    },
+    { 
+        "Id" : 2,
+        "Name": "Crisps", 
+        "Price" : "3"
+    },
+    { 
+        "Id" : 3,
+        "Name": "Pizza", 
+        "Price" : "4"
+    },
+    { 
+        "Id" : 4,
+        "Name": "Chocolate", 
+        "Price" : "1.50"
+    },
+    { 
+        "Id" : 5,
+        "Name": "Self-raising flour", 
+        "Price" : "1.50"
+    },
+    { 
+        "Id" : 6,
+        "Name": "Ground almonds", 
+        "Price" : "3"
+    }
+]
